@@ -1,0 +1,6 @@
+City1,City2,City3,City4,
+City1 City2 260
+City1 City4 110
+City2 City3 400
+City4 City2 100
+City4 City3 350
